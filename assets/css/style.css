@@ -1,3 +1,4 @@
+/*general styling*/
 * {
     box-sizing: border-box;
     padding: 0;
@@ -7,7 +8,7 @@
 body {
     background-color: #d9dcd6;
 }
-
+/* header css */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -41,7 +42,7 @@ body {
     display: inline-block;
     margin-left: 25px;
 }
-
+/* text styling */
 a {
     color: #ffffff;
     text-decoration: none;
@@ -59,7 +60,7 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+/* positioning */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -75,7 +76,7 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
-
+/* aside section */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -103,7 +104,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* main section */
 .search-engine-optimization, .online-reputation-management, .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -121,7 +122,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* footer section */
 .footer {
     padding: 30px;
     clear: both;

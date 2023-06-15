@@ -10,6 +10,7 @@ Open index.html file in the browser. Click on the "Search Engine Optimization," 
 
 ![alt text](./assets/images/screenshot.png)
 
+https://lilym036.github.io/horiseon-refactor/
 
 ## Credits
 Matthew Calimbas- Tutor 

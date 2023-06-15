@@ -6,21 +6,13 @@ This project was created to refactor an existing site for a marketing agency to 
 N/A
 
 ## Usage
+Open index.html file in the browser. Click on the "Search Engine Optimization," Online Reputation Management," or "Social Media Marketing" tabs at the top to read about each section. Also review the aside for additional information. 
 
-Provide instructions and examples for use. Include screenshots as needed.
+![alt text](./assets/images/screenshot.png)
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-
-    
 
 ## Credits
-
-List your collaborators, if any, with links to their GitHub profiles.
-
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
+Matthew Calimbas- Tutor 
 
 ## License
 MIT License
@@ -47,4 +39,3 @@ SOFTWARE.
 
 
 
-![alt text](./assets/images/brand-awareness.png)

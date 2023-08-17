@@ -13,7 +13,8 @@ Open index.html file in the browser. Click on the "Search Engine Optimization," 
 https://lilym036.github.io/horiseon-refactor/
 
 ## Credits
-Matthew Calimbas- Tutor 
+Thanks to the following person who helped me in this project:
+Matthew Calimbas 
 
 ## License
 MIT License
